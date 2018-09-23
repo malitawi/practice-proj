@@ -11,5 +11,6 @@ using std::cerr; using endl;
 
 int main(int argc, char* argv[])
 {
+    cout << "foo";
     return 0;
 }
