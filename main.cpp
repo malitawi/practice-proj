@@ -14,5 +14,8 @@ int main(int argc, char* argv[])
     cout << "foo";
     cout << "bar";
     cout << "baz";
+    cout << "goo";
+    cout << "boo";
+    cout << "yoo";
     return 0;
 }
