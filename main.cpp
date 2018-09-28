@@ -16,6 +16,10 @@ int main(int argc, char* argv[])
     cout << "baz";
     cout << "goo";
     cout << "boo";
-    cout << "yoo";
+    cout << "yoo4";
+    cout << "zoo5";
+    cout << "abc2";
+    cout << "abc3";
+    cout << "abc6";
     return 0;
 }
