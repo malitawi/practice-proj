@@ -9,6 +9,11 @@ using std::ifstream; using std::getline;
 using std::shared_ptr; using std::make_shared;
 using std::cerr; using endl;
 
+void foo(int val)
+{
+    printf("%d", val);
+}
+
 int main(int argc, char* argv[])
 {
     cout << "foo";
@@ -25,5 +30,8 @@ int main(int argc, char* argv[])
     cout << "abc8";
     cout << "abc9";
     cout << "abc10";
+    
+    foo(10);
+    foo(11);
     return 0;
 }
