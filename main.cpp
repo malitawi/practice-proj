@@ -44,5 +44,7 @@ int main(int argc, char* argv[])
     foo(18);
     foo(19);
     
+    foo(20);
+    
     return 0;
 }
