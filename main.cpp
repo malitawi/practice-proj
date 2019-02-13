@@ -33,5 +33,11 @@ int main(int argc, char* argv[])
     
     foo(10);
     foo(11);
+    
+    foo(12);
+    foo(13);
+    foo(14);
+    foo(15);
+    
     return 0;
 }
