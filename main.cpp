@@ -39,8 +39,6 @@ int main(int argc, char* argv[])
     foo(14);
     foo(15);
     foo(16);
-    foo(17);
-    foo(18);
     
     return 0;
 }
